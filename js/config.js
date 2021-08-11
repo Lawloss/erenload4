@@ -84,7 +84,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "Ce4aDWk2hpU", name: "Massaka - Alfa"},
+        {ogg: "songs/massaka-alfa-official-video.ogg", name: "Massaka-Alfa"},
+	{youtube: "Ce4aDWk2hpU", name: "Massaka - Alfa"}
 ];
 
 /*Random music order?*/
